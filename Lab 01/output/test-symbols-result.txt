@@ -1,0 +1,315 @@
+// ML Instruction for expression, input line 1: +
+//   ERROR: Malformed expression near '+' in +.  Operator requires two variables, has zero.
+
+// ML Instruction for expression, input line 3: -
+//   ERROR: Malformed expression near '-' in -.  Operator requires two variables, has zero.
+
+// ML Instruction for expression, input line 5: =
+//   ERROR: Malformed expression near '=' in =.  Invalid character encountered.
+
+// ML Instruction for expression, input line 7: /
+//   ERROR: Malformed expression near '/' in /.  Operator requires two variables, has zero.
+
+// ML Instruction for expression, input line 9: <
+//   ERROR: Malformed expression near '<' in <.  Invalid character encountered.
+
+// ML Instruction for expression, input line 11: >
+//   ERROR: Malformed expression near '>' in >.  Invalid character encountered.
+
+// ML Instruction for expression, input line 13: .
+//   ERROR: Malformed expression near '.' in ..  Invalid character encountered.
+
+// ML Instruction for expression, input line 15: ,
+//   ERROR: Malformed expression near ',' in ,.  Invalid character encountered.
+
+// ML Instruction for expression, input line 17: :
+//   ERROR: Malformed expression near ':' in :.  Invalid character encountered.
+
+// ML Instruction for expression, input line 19: ;
+//   ERROR: Malformed expression near ';' in ;.  Invalid character encountered.
+
+// ML Instruction for expression, input line 21: "
+//   ERROR: Malformed expression near '"' in ".  Invalid character encountered.
+
+// ML Instruction for expression, input line 23: '
+//   ERROR: Malformed expression near ''' in '.  Invalid character encountered.
+
+// ML Instruction for expression, input line 25: \
+//   ERROR: Malformed expression near '\' in \.  Invalid character encountered.
+
+// ML Instruction for expression, input line 27: [
+//   ERROR: Malformed expression near '[' in [.  Invalid character encountered.
+
+// ML Instruction for expression, input line 29: ]
+//   ERROR: Malformed expression near ']' in ].  Invalid character encountered.
+
+// ML Instruction for expression, input line 31: {
+//   ERROR: Malformed expression near '{' in {.  Invalid character encountered.
+
+// ML Instruction for expression, input line 33: }
+//   ERROR: Malformed expression near '}' in }.  Invalid character encountered.
+
+// ML Instruction for expression, input line 35: \
+//   ERROR: Malformed expression near '\' in \.  Invalid character encountered.
+
+// ML Instruction for expression, input line 37: |
+//   ERROR: Malformed expression near '|' in |.  Invalid character encountered.
+
+// ML Instruction for expression, input line 39: ~
+//   ERROR: Malformed expression near '~' in ~.  Invalid character encountered.
+
+// ML Instruction for expression, input line 41: `
+//   ERROR: Malformed expression near '`' in `.  Invalid character encountered.
+
+// ML Instruction for expression, input line 43: !
+//   ERROR: Malformed expression near '!' in !.  Invalid character encountered.
+
+// ML Instruction for expression, input line 45: @
+//   ERROR: Malformed expression near '@' in @.  Invalid character encountered.
+
+// ML Instruction for expression, input line 47: #
+//   ERROR: Malformed expression near '#' in #.  Invalid character encountered.
+
+// ML Instruction for expression, input line 49: $
+//   ERROR: Malformed expression near '$' in $.  Operator requires two variables, has zero.
+
+// ML Instruction for expression, input line 51: %
+//   ERROR: Malformed expression near '%' in %.  Invalid character encountered.
+
+// ML Instruction for expression, input line 53: ^
+//   ERROR: Malformed expression near '^' in ^.  Invalid character encountered.
+
+// ML Instruction for expression, input line 55: &
+//   ERROR: Malformed expression near '&' in &.  Invalid character encountered.
+
+// ML Instruction for expression, input line 57: *
+//   ERROR: Malformed expression near '*' in *.  Operator requires two variables, has zero.
+
+// ML Instruction for expression, input line 59: (
+//   ERROR: Malformed expression near '(' in (.  Invalid character encountered.
+
+// ML Instruction for expression, input line 61: )
+//   ERROR: Malformed expression near ')' in ).  Invalid character encountered.
+
+// ML Instruction for expression, input line 63: ?
+//   ERROR: Malformed expression near '?' in ?.  Invalid character encountered.
+
+// ML Instruction for expression, input line 65: /
+//   ERROR: Malformed expression near '/' in /.  Operator requires two variables, has zero.
+
+// ML Instruction for expression, input line 67: A+
+//   ERROR: Malformed expression near '+' in A+.  Operator requires two variables, has one.
+
+// ML Instruction for expression, input line 69: A-
+//   ERROR: Malformed expression near '-' in A-.  Operator requires two variables, has one.
+
+// ML Instruction for expression, input line 71: A=
+//   ERROR: Malformed expression near '=' in A=.  Invalid character encountered.
+
+// ML Instruction for expression, input line 73: A/
+//   ERROR: Malformed expression near '/' in A/.  Operator requires two variables, has one.
+
+// ML Instruction for expression, input line 75: A<
+//   ERROR: Malformed expression near '<' in A<.  Invalid character encountered.
+
+// ML Instruction for expression, input line 77: A>
+//   ERROR: Malformed expression near '>' in A>.  Invalid character encountered.
+
+// ML Instruction for expression, input line 79: A.
+//   ERROR: Malformed expression near '.' in A..  Invalid character encountered.
+
+// ML Instruction for expression, input line 81: A,
+//   ERROR: Malformed expression near ',' in A,.  Invalid character encountered.
+
+// ML Instruction for expression, input line 83: A:
+//   ERROR: Malformed expression near ':' in A:.  Invalid character encountered.
+
+// ML Instruction for expression, input line 85: A;
+//   ERROR: Malformed expression near ';' in A;.  Invalid character encountered.
+
+// ML Instruction for expression, input line 87: A"
+//   ERROR: Malformed expression near '"' in A".  Invalid character encountered.
+
+// ML Instruction for expression, input line 89: A'
+//   ERROR: Malformed expression near ''' in A'.  Invalid character encountered.
+
+// ML Instruction for expression, input line 91: A\
+//   ERROR: Malformed expression near '\' in A\.  Invalid character encountered.
+
+// ML Instruction for expression, input line 93: A[
+//   ERROR: Malformed expression near '[' in A[.  Invalid character encountered.
+
+// ML Instruction for expression, input line 95: A]
+//   ERROR: Malformed expression near ']' in A].  Invalid character encountered.
+
+// ML Instruction for expression, input line 97: A{
+//   ERROR: Malformed expression near '{' in A{.  Invalid character encountered.
+
+// ML Instruction for expression, input line 99: A}
+//   ERROR: Malformed expression near '}' in A}.  Invalid character encountered.
+
+// ML Instruction for expression, input line 101: A\
+//   ERROR: Malformed expression near '\' in A\.  Invalid character encountered.
+
+// ML Instruction for expression, input line 103: A|
+//   ERROR: Malformed expression near '|' in A|.  Invalid character encountered.
+
+// ML Instruction for expression, input line 105: A~
+//   ERROR: Malformed expression near '~' in A~.  Invalid character encountered.
+
+// ML Instruction for expression, input line 107: A`
+//   ERROR: Malformed expression near '`' in A`.  Invalid character encountered.
+
+// ML Instruction for expression, input line 109: A!
+//   ERROR: Malformed expression near '!' in A!.  Invalid character encountered.
+
+// ML Instruction for expression, input line 111: A@
+//   ERROR: Malformed expression near '@' in A@.  Invalid character encountered.
+
+// ML Instruction for expression, input line 113: A#
+//   ERROR: Malformed expression near '#' in A#.  Invalid character encountered.
+
+// ML Instruction for expression, input line 115: A$
+//   ERROR: Malformed expression near '$' in A$.  Operator requires two variables, has one.
+
+// ML Instruction for expression, input line 117: A%
+//   ERROR: Malformed expression near '%' in A%.  Invalid character encountered.
+
+// ML Instruction for expression, input line 119: A^
+//   ERROR: Malformed expression near '^' in A^.  Invalid character encountered.
+
+// ML Instruction for expression, input line 121: A&
+//   ERROR: Malformed expression near '&' in A&.  Invalid character encountered.
+
+// ML Instruction for expression, input line 123: A*
+//   ERROR: Malformed expression near '*' in A*.  Operator requires two variables, has one.
+
+// ML Instruction for expression, input line 125: A(
+//   ERROR: Malformed expression near '(' in A(.  Invalid character encountered.
+
+// ML Instruction for expression, input line 127: A)
+//   ERROR: Malformed expression near ')' in A).  Invalid character encountered.
+
+// ML Instruction for expression, input line 129: A?
+//   ERROR: Malformed expression near '?' in A?.  Invalid character encountered.
+
+// ML Instruction for expression, input line 131: A/
+//   ERROR: Malformed expression near '/' in A/.  Operator requires two variables, has one.
+
+// ML Instruction for expression, input line 133: ZA+
+LD Z
+AD A
+ST TEMP1
+
+
+// ML Instruction for expression, input line 135: ZA-
+LD Z
+SB A
+ST TEMP1
+
+
+// ML Instruction for expression, input line 137: ZA=
+//   ERROR: Malformed expression near '=' in ZA=.  Invalid character encountered.
+
+// ML Instruction for expression, input line 139: ZA/
+LD Z
+DV A
+ST TEMP1
+
+
+// ML Instruction for expression, input line 141: ZA<
+//   ERROR: Malformed expression near '<' in ZA<.  Invalid character encountered.
+
+// ML Instruction for expression, input line 143: ZA>
+//   ERROR: Malformed expression near '>' in ZA>.  Invalid character encountered.
+
+// ML Instruction for expression, input line 145: ZA.
+//   ERROR: Malformed expression near '.' in ZA..  Invalid character encountered.
+
+// ML Instruction for expression, input line 147: ZA,
+//   ERROR: Malformed expression near ',' in ZA,.  Invalid character encountered.
+
+// ML Instruction for expression, input line 149: ZA:
+//   ERROR: Malformed expression near ':' in ZA:.  Invalid character encountered.
+
+// ML Instruction for expression, input line 151: ZA;
+//   ERROR: Malformed expression near ';' in ZA;.  Invalid character encountered.
+
+// ML Instruction for expression, input line 153: ZA"
+//   ERROR: Malformed expression near '"' in ZA".  Invalid character encountered.
+
+// ML Instruction for expression, input line 155: ZA'
+//   ERROR: Malformed expression near ''' in ZA'.  Invalid character encountered.
+
+// ML Instruction for expression, input line 157: ZA\
+//   ERROR: Malformed expression near '\' in ZA\.  Invalid character encountered.
+
+// ML Instruction for expression, input line 159: ZA[
+//   ERROR: Malformed expression near '[' in ZA[.  Invalid character encountered.
+
+// ML Instruction for expression, input line 161: ZA]
+//   ERROR: Malformed expression near ']' in ZA].  Invalid character encountered.
+
+// ML Instruction for expression, input line 163: ZA{
+//   ERROR: Malformed expression near '{' in ZA{.  Invalid character encountered.
+
+// ML Instruction for expression, input line 165: ZA}
+//   ERROR: Malformed expression near '}' in ZA}.  Invalid character encountered.
+
+// ML Instruction for expression, input line 167: ZA\
+//   ERROR: Malformed expression near '\' in ZA\.  Invalid character encountered.
+
+// ML Instruction for expression, input line 169: ZA|
+//   ERROR: Malformed expression near '|' in ZA|.  Invalid character encountered.
+
+// ML Instruction for expression, input line 171: ZA~
+//   ERROR: Malformed expression near '~' in ZA~.  Invalid character encountered.
+
+// ML Instruction for expression, input line 173: ZA`
+//   ERROR: Malformed expression near '`' in ZA`.  Invalid character encountered.
+
+// ML Instruction for expression, input line 175: ZA!
+//   ERROR: Malformed expression near '!' in ZA!.  Invalid character encountered.
+
+// ML Instruction for expression, input line 177: ZA@
+//   ERROR: Malformed expression near '@' in ZA@.  Invalid character encountered.
+
+// ML Instruction for expression, input line 179: ZA#
+//   ERROR: Malformed expression near '#' in ZA#.  Invalid character encountered.
+
+// ML Instruction for expression, input line 181: ZA$
+LD Z
+PW A
+ST TEMP1
+
+
+// ML Instruction for expression, input line 183: ZA%
+//   ERROR: Malformed expression near '%' in ZA%.  Invalid character encountered.
+
+// ML Instruction for expression, input line 185: ZA^
+//   ERROR: Malformed expression near '^' in ZA^.  Invalid character encountered.
+
+// ML Instruction for expression, input line 187: ZA&
+//   ERROR: Malformed expression near '&' in ZA&.  Invalid character encountered.
+
+// ML Instruction for expression, input line 189: ZA*
+LD Z
+ML A
+ST TEMP1
+
+
+// ML Instruction for expression, input line 191: ZA(
+//   ERROR: Malformed expression near '(' in ZA(.  Invalid character encountered.
+
+// ML Instruction for expression, input line 193: ZA)
+//   ERROR: Malformed expression near ')' in ZA).  Invalid character encountered.
+
+// ML Instruction for expression, input line 195: ZA?
+//   ERROR: Malformed expression near '?' in ZA?.  Invalid character encountered.
+
+// ML Instruction for expression, input line 197: ZA/
+LD Z
+DV A
+ST TEMP1
+
+

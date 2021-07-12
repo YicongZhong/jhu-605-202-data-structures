@@ -1,0 +1,164 @@
+/*	Adam Rich
+ *  EN.605.202.87.SP18 Data Structures
+ *  February 18, 2018
+ *
+ *  class StackInteger 
+ *    Uses an integer array to implement stack ADT
+ *
+ *  License: CC0
+ *  https://creativecommons.org/publicdomain/zero/1.0/legalcode
+ *
+ */
+ 
+ 
+public class StackInteger {
+  
+  public static final int INIT_SIZE = 1000;
+  
+  // Position in the stack = array index of top element
+  // pos = -1 means stack is empty
+  private int pos;
+  private int pstack[];
+  private int origSize;
+  private boolean allowAuto;
+  
+  // Constructor with defaults
+  public StackInteger() {
+    origSize = INIT_SIZE;
+    pstack = new int[origSize];
+    pos = -1;
+    allowAuto = true;
+    
+    /**/// System.out.println("\nStackInteger()");
+    /**/// System.out.println("    Initializing stack with capacity = " + pstack.length);
+    /**/// System.out.println("    pos = " + pos);
+    /**/// System.out.println("    origSize = " + origSize);
+    /**/// System.out.println("    allowAuto = " + allowAuto);
+    
+  }
+	
+  // A custom constructor
+  public StackInteger(int n, boolean allowAutoGrow) throws StackInvalidCapacityException {
+    if (n < 1) {
+      // throw error
+    }
+    origSize = n;
+    pstack = new int[origSize];
+    pos = -1;
+    allowAuto = allowAutoGrow;
+    
+    /**/// System.out.println("\nStackInteger(int n, boolean allowAutoGrow)");
+    /**/// System.out.println("    Initializing stack with capacity = " + pstack.length);
+    /**/// System.out.println("    n = " + n);
+    /**/// System.out.println("    allowAutoGrow = " + allowAutoGrow);
+    /**/// System.out.println("    pos = " + pos);
+    /**/// System.out.println("    origSize = " + origSize);
+    /**/// System.out.println("    allowAuto = " + allowAuto);
+    
+  }
+  
+  public void push(int n) throws StackNoCapacityException {
+    if (pos + 1 >= pstack.length) {
+      if (allowAuto) {
+        this.autoGrow(origSize);
+      } else {
+        // throw error 
+      }
+    }
+    pos++;
+    pstack[pos] = n;
+    
+    /**/// System.out.println("\npush(int n)");
+    /**/// System.out.println("    n = " + n);
+    /**/// System.out.println("    pos = " + pos);
+    /**/// System.out.println("    Stack capacity = " + pstack.length);
+      
+  }
+  
+  public int pop() throws StackIsEmptyException {
+    int r = pstack[pos];
+    pstack[pos] = 0;
+    pos--;
+    
+    /**/// System.out.println("\npop()");
+    /**/// System.out.println("    return = " + r);
+    /**/// System.out.println("    pos = " + pos);
+    /**/// System.out.println("    Stack capacity = " + pstack.length);
+    
+    return r;
+    
+  }
+  
+  public int peek() throws StackIsEmptyException {
+    
+    /**/// System.out.println("\npeek()");
+    /**/// System.out.println("    return = " + pstack[pos]);
+    /**/// System.out.println("    pos = " + pos);
+    /**/// System.out.println("    Stack capacity = " + pstack.length);
+    
+    return pstack[pos];
+  }
+  
+  public boolean isEmpty() {
+    
+    /**/// System.out.println("\nisEmpty()");
+    /**/// System.out.println("    return = " + (pos == -1));
+    /**/// System.out.println("    pos = " + pos);
+    /**/// System.out.println("    Stack capacity = " + pstack.length);
+    
+    return pos == -1;
+  }
+  
+  public String toString() {
+    
+    if (pos < 0) return "Empty Stack";
+    String r = "";
+    
+    for (int i = 0; i <= pos; i++) {
+      r += pstack[i] + " ";
+    }
+    return r;
+  }
+  
+  private int autoGrow(int n) {
+    
+    /**/// System.out.println("\nautoGrow(int n)");
+    /**/// System.out.println("    n = " + n);
+    /**/// System.out.println("    Stack capacity before = " + pstack.length);
+    
+    int temp[] = new int[pstack.length + n];
+    for (int i = 0; i <= pos; i++) {
+      temp[i] = pstack[i];
+    }
+    pstack = temp;
+    
+    /**/// System.out.println("    Stack capacity after = " + pstack.length);
+    /**/// System.out.println("    pos = " + pos);
+    
+    return pstack.length;
+  }
+  
+}
+
+
+public class StackInvalidCapacityException extends Exception {
+  public StackInvalidCapacityException(String msg) {
+    if (msg == "") msg = "No specific message passed by caller.";
+    super("A stack must be initialized with a positive capacity argument or use the default constructor:\n    " + msg);
+  }
+}
+
+public class StackNoCapacityException extends Exception {
+  public StackNoCapacityException(String msg) {
+    if (msg == "") msg = "No specific message passed by caller.";
+    super("OVERFLOW The stack internal array is full and 'autoGrow' is false:\n    " + msg);
+  }
+}
+
+public class StackIsEmptyException extends Exception {
+  public StackIsEmptyException(String msg) {
+    if (msg == "") msg = "No specific message passed by caller.";
+    super("UNDERFLOW The stack is empty and has no top element:\n    " + msg);
+  }
+}
+

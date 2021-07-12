@@ -1,0 +1,60 @@
+Adam Rich
+EN.605.202.87.SP18
+Lab 04: "Compare Sorts"
+May 8, 2018
+
+Please see the PDF file in the project directory, LabQuickHeap.pdf, 
+for detail about the lab assignment.  And the .DOCX file for analysis.
+
+Output of "java -version" on the DEV machine
+  java version "1.8.0_161"
+  Java(TM) SE Runtime Environment (build 1.8.0_161-b12)
+  Java HotSpot(TM) Client VM (build 25.161-b12, mixed mode)
+
+This version of Java is also known as "Java 8.0 SE"
+
+
+
+Lab04 Sort Comparison
+
+Requires three command line arguments, two optional:
+  inPath        File with whitepace delimited integers
+  outFolder     Folder to save output files
+  outPrefix     Prefix for output files -- will be five per call
+  timingsFile   (optional) Path to timings file
+  label         (optional) Label for use in timings file
+
+Examples:
+  java -cp src\ Lab04 input\given-10000-ran.dat output\ given-10000-ran
+  java -cp src\ Lab04 input\given-10000-ran.dat output\ given-10000-ran timings.txt v1
+
+Creates 9-13 output files per run.  Please see analysis note for detals.
+Also outputs timing metrics to "timings.txt" or the specified file.
+
+
+For an example of how to compile, please see "rebuild.bat".
+  @echo off
+  cls
+  del src\*.class
+  javac src\*.java
+
+A usage message is given by calling the app with no args (or bad args!)
+  java -cp src\ Lab04 
+  
+There are several other helper BATCH files in the directory
+  rebuild.bat     recompile the project
+  edit-all.bat    open all .java files in an editor
+  test.bat        shortcut for running for one input file
+                  ex. "test 10000 ran" is the same as 
+                  java -cp src\ Lab04 input\given-10000-ran.dat output\ given-10000-ran
+  test-aux.bat    If recompiled with debugging symbols "turned on"
+                  running this helps to test IntegerSorter
+                  and ArrayParser classes
+  test-all.bat    Runs everything for all input files
+  
+Note on development
+  No IDE was used; this code was written in Notepad++ and 
+  compiled from the command line.
+
+
+  

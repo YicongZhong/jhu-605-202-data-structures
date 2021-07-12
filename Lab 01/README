@@ -1,0 +1,53 @@
+Adam Rich
+EN.605.202.87.SP18
+Lab 01: "Postfix to Machine Language"
+March 6, 2018
+
+Please see the PDF file in the project directory, LabPostfixMachineLang.pdf, 
+for detail about the lab assignment.  And the .DOCX file for analysis.
+
+Output of "java -version" on the DEV machine
+
+  java version "1.7.0_80"
+  Java(TM) SE Runtime Environment (build 1.7.0_80-b15)
+  Java HotSpot(TM) Client VM (build 24.80-b11, mixed mode)
+
+This version of Java is also known as "Java 7.0 SE"
+
+
+No IDE was used; this code was written in Notepad++ and 
+compiled from the command line.
+
+For an example of how to compile, please see "rebuild.bat".
+
+  @echo off
+  cls
+  javac src\*.java
+
+For an example of how to run, or to run a test in ".\input\"
+see "test.bat".  Takes a test stem, like "default"
+
+  @echo off
+  cls
+  java -cp src\ Lab01Application "input\%~1.txt" "output\%~1-result.txt"
+  start notepad++ "input\%~1.txt" "output\%~1-result.txt"
+
+  
+  
+Assignment prescribed test cases can be found in 
+  input\default.txt
+  
+Other sample files appear in input\.  Sample output\ as well.
+
+Based on examples found in "Error Handling and Exceptions.pdf"
+the app does ask the user if they want to correct
+inputs and outputs if they are invalid.
+  
+To run StackInteger tests do the following.
+However, all debug comments have been removed, 
+so the tests are less useful than in the
+"Stack" project.  That is available upon request.
+
+  java -cp src\ TestStackInteger
+  
+

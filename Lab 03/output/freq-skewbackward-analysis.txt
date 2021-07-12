@@ -1,0 +1,119 @@
+**************************************
+**** Documentation of HuffmanTree ****
+**************************************
+
+
+Tie-break method: default
+
+Original Freq Table:
+
+E - 1
+S - 2
+R - 4
+T - 8
+N - 16
+W - 32
+L - 64
+A - 128
+M - 256
+O - 512
+C - 1024
+H - 2048
+B - 4096
+I - 8192
+U - 16384
+G - 32768
+P - 65536
+F - 131072
+D - 262144
+K - 524288
+Y - 1048576
+J - 2097152
+V - 4194304
+Z - 8388608
+X - 16777216
+Q - 33554432
+
+
+Pre-order transversal of tree:
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ:67108863
+  ABCDEFGHIJKLMNOPRSTUVWXYZ:33554431
+    ABCDEFGHIJKLMNOPRSTUVWYZ:16777215
+      ABCDEFGHIJKLMNOPRSTUVWY:8388607
+        ABCDEFGHIJKLMNOPRSTUWY:4194303
+          ABCDEFGHIKLMNOPRSTUWY:2097151
+            ABCDEFGHIKLMNOPRSTUW:1048575
+              ABCDEFGHILMNOPRSTUW:524287
+                ABCEFGHILMNOPRSTUW:262143
+                  ABCEGHILMNOPRSTUW:131071
+                    ABCEGHILMNORSTUW:65535
+                      ABCEHILMNORSTUW:32767
+                        ABCEHILMNORSTW:16383
+                          ABCEHLMNORSTW:8191
+                            ACEHLMNORSTW:4095
+                              ACELMNORSTW:2047
+                                AELMNORSTW:1023
+                                  AELMNRSTW:511
+                                    AELNRSTW:255
+                                      ELNRSTW:127
+                                        ENRSTW:63
+                                          ENRST:31
+                                            ERST:15
+                                              ERS:7
+                                                ES:3
+                                                  E:1
+                                                  S:2
+                                                R:4
+                                              T:8
+                                            N:16
+                                          W:32
+                                        L:64
+                                      A:128
+                                    M:256
+                                  O:512
+                                C:1024
+                              H:2048
+                            B:4096
+                          I:8192
+                        U:16384
+                      G:32768
+                    P:65536
+                  F:131072
+                D:262144
+              K:524288
+            Y:1048576
+          J:2097152
+        V:4194304
+      Z:8388608
+    X:16777216
+  Q:33554432
+
+Table of codes:
+
+A:0000000000000000001
+B:00000000000001
+C:0000000000000001
+D:00000001
+E:0000000000000000000000000
+F:000000001
+G:00000000001
+H:000000000000001
+I:0000000000001
+J:00001
+K:0000001
+L:00000000000000000001
+M:000000000000000001
+N:0000000000000000000001
+O:00000000000000001
+P:0000000001
+Q:1
+R:000000000000000000000001
+S:0000000000000000000000001
+T:00000000000000000000001
+U:000000000001
+V:0001
+W:000000000000000000001
+X:01
+Y:000001
+Z:001

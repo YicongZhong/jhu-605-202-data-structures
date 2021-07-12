@@ -1,0 +1,12 @@
+The source code in this assignment can be compiled with JDK 6 from the command line. It was developed using NetBeans.
+
+To run the program, enter:  java Project0 [inputFile] [outputfile].
+
+To compile, run the following from the project root directory
+  javac src\*.java
+  
+To run using sample input, from the project root directory
+  java -cp src\ Project0 input\in.txt output\out.txt
+  
+  
+  

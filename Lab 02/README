@@ -1,0 +1,62 @@
+Adam Rich
+EN.605.202.87.SP18
+Lab 02: "Towers of Hanoi"
+April 3, 2018
+
+This application creates a "cheatsheet" that gives
+move-by-move instructions to solve the "Towers of Hanoi"
+puzzle for a given number of disks.  The "cheatsheet"
+gives an optimal solution, i.e. a solution with the
+fewest possible number of moves.
+
+Please see the PDF file in the project directory, LabTowersOfHanoiRev.pdf, 
+for detail about the lab assignment.  And the .DOCX file for analysis.
+
+Output of "java -version" on the DEV machine
+
+  java version "1.8.0_161"
+  Java(TM) SE Runtime Environment (build 1.8.0_161-b12)
+  Java HotSpot(TM) Client VM (build 25.161-b12, mixed mode, sharing)
+
+This version of Java is also known as "Java 8.0 SE"
+
+
+No IDE was used; this code was written in Notepad++ and 
+compiled from the command line.
+
+For an example of how to compile, please see "rebuild.bat".
+
+  @echo off
+  javac src\*.java
+
+For an example of how to run, see "test.bat", or follow this code
+
+  java -cp src\ Lab02 10 "output\tower-10r.txt" 1  
+  java -cp src\ Lab02 8 "output\tower-10i.txt" 0 "time.txt"
+  
+Parameters to the application:
+  1. The number of disks in the puzzle
+  2. The file where output is written
+  3. What mode to use, "0" for iterative, "1" for recursive
+  4. (Optional) where to put the execution time, with other 
+       identifying info
+     If not provided output/timings.txt will be used
+     
+*** Other BAT files also included: ***
+
+  test.bat
+    Takes parameters 1 and 3 only, default output file name used
+  
+  run-iterative.bat
+    Takes one parameter, M, runs iterative method for 1 to M,
+      saving files to a default file name
+      
+  run-recursive.bat
+    Similar to run-iterative, but uses recursive method
+  
+  compare-with-git.bat
+    Compares the i and r files, assuming the default name,
+    using git diff --no-index
+    Allows for easy inspection that the instruction lists
+    are the same between the two methods
+

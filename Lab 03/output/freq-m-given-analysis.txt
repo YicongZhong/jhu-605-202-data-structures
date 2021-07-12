@@ -1,0 +1,120 @@
+**************************************
+**** Documentation of HuffmanTree ****
+**************************************
+
+
+Tie-break method: mirror
+
+Original Freq Table:
+
+A - 19 
+B - 16 
+C - 17 
+D - 11 
+E - 42 
+F - 12 
+G - 14 
+H - 17 
+I - 16 
+J - 5 
+K - 10 
+L - 20 
+M - 19 
+N - 24 
+O - 18 
+P - 13 
+Q - 1 
+R - 25 
+S - 35 
+T - 25 
+U - 15 
+V - 5 
+W - 21 
+X - 2 
+Y - 8 
+Z - 3
+
+
+
+Pre-order transversal of tree:
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ:413
+  ADEFJKLNVW:169
+    AJKLVW:80
+      AJKV:39
+        A:19
+        JKV:20
+          JV:10
+            V:5
+            J:5
+          K:10
+      LW:41
+        L:20
+        W:21
+    DEFN:89
+      E:42
+      DFN:47
+        DF:23
+          D:11
+          F:12
+        N:24
+  BCGHIMOPQRSTUXYZ:244
+    GPQRTUXYZ:106
+      RT:50
+        T:25
+        R:25
+      GPQUXYZ:56
+        PQXYZ:27
+          P:13
+          QXYZ:14
+            QXZ:6
+              QX:3
+                Q:1
+                X:2
+              Z:3
+            Y:8
+        GU:29
+          G:14
+          U:15
+    BCHIMOS:138
+      BCHI:66
+        BI:32
+          I:16
+          B:16
+        CH:34
+          H:17
+          C:17
+      MOS:72
+        S:35
+        MO:37
+          O:18
+          M:19
+
+Table of codes:
+
+A:0000
+B:11001
+C:11011
+D:01100
+E:010
+F:01101
+G:10110
+H:11010
+I:11000
+J:000101
+K:00011
+L:0010
+M:11111
+N:0111
+O:11110
+P:10100
+Q:10101000
+R:1001
+S:1110
+T:1000
+U:10111
+V:000100
+W:0011
+X:10101001
+Y:101011
+Z:1010101

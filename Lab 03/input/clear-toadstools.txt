@@ -1,0 +1,1000 @@
+﻿The Project Gutenberg EBook of Our Edible Toadstools and Mushrooms and How
+to Distinguish Them, by William Hamilton Gibson
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever.  You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: Our Edible Toadstools and Mushrooms and How to Distinguish Them
+       A Selection of Thirty Native Food Varieties Easily
+       Recognizable by their Marked Individualities, with Simple
+       Rules for the Identification of Poisonous Species
+
+Author: William Hamilton Gibson
+
+Release Date: August 5, 2014 [EBook #46514]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK EDIBLE TOADSTOOLS AND MUSHROOMS ***
+
+
+
+
+Produced by Peter Vachuska, Paul Marshall, Dave Morgan,
+Illustration images from The Internet Archive (TIA) and
+the Online Distributed Proofreading Team at
+http://www.pgdp.net
+
+
+
+
+
+
+
+[Illustration: _Our Edible Mushrooms_]
+
+[Illustration: THE DEADLY "AMANITA".]
+
+
+
+
+                       Our Edible
+                 Toadstools and Mushrooms
+                          and
+                 How to Distinguish Them
+
+
+     _A Selection of Thirty Native Food Varieties_
+  _Easily Recognisable by their Marked Individualities,_
+             _with Simple Rules for the_
+         _Identification of Poisonous Species_
+
+                    [Illustration]
+
+                 BY W. HAMILTON GIBSON
+
+               WITH THIRTY COLORED PLATES
+  AND FIFTY-SEVEN OTHER ILLUSTRATIONS BY THE AUTHOR
+
+
+                     NEW YORK
+            HARPER & BROTHERS PUBLISHERS
+                      1895
+
+
+    THE WORKS OF W. HAMILTON GIBSON.
+
+      _ILLUSTRATED BY THE AUTHOR._
+
+  SHARP EYES. A Rambler's Calendar among Birds, Insects, and Flowers.
+  8vo, $5.00.
+  HIGHWAYS AND BYWAYS; or, Saunterings in New England. 4to, $7.50.
+  STROLLS BY STARLIGHT AND SUNSHINE. Royal 8vo, $3.50.
+  HAPPY HUNTING-GROUNDS. A Tribute to the Woods and Fields. 4to, $7.50.
+  PASTORAL DAYS; or, Memories of a New England Year. 4to, $7.50.
+  CAMP LIFE IN THE WOODS, and the Tricks of Trapping and
+  Trap-making. 16mo, $1.00.
+
+   PUBLISHED BY HARPER & BROTHERS, NEW YORK.
+    Copyright, 1895, by HARPER & BROTHERS.
+            _All rights reserved._
+
+
+                Dedication
+
+  To the Reader kind, gentle, or other, to whom,
+  in the hopes of continued grace and well-being
+
+  The Frontispiece and the chapter on "The Deadly Amanita"
+  is herewith particularly referred with the Author's Solicitude
+
+  "Forewarned is Forearmed"
+
+"_For those who do hunger after the earthlie excrescences called
+mushrooms_."--GERARDE.
+
+
+
+
+[ Transcriber's notes:
+
+   (1) Underscores "_" in text indicate italics.
+
+   (2) Equal signs "=" in text indicate bold font.
+
+   (3) Throughout the dialogues, there were words used to mimic accents
+        of the speakers. Those words were retained as written.
+
+   (4) The illustrations have been moved so that they do not break up
+        paragraphs and so that they are next to the text they illustrate.
+
+   (5) Sidenote labels have all been moved to the top of the paragraph
+        that they refer to, even when the paragraph has two sidenote
+        labels.
+]
+
+
+
+
+               Contents
+                                 Page
+
+  INTRODUCTION                       1
+  THE DEADLY AMANITA                43
+  THE AGARICACEÆ                    77
+  THE POLYPOREI                    181
+  MISCELLANEOUS FUNGI              231
+  SPORE-PRINTS                     277
+  RECIPES                          299
+  BIBLIOGRAPHY                     325
+  INDEX                            329
+
+
+                      List of Plates
+                                                      Page
+
+   1. The Deadly "Amanita"               _Frontispiece_
+   2. Mycelium, and early vegetation of a mushroom      45
+   3. Amanita vernus--development                       49
+   4. Agaricus (Amanita) muscarius                      55
+   5. Agaricus campestris                               83
+   6. Agaricus campestris--various forms of             89
+   7. Agaricus gambosus                                 99
+   8. Marasmius oreades. "Fairy-ring"                  105
+   9. Poisonous Champignons.
+      _M. urens--M. peronatus_                         111
+  10. Agaricus procerus                                117
+  11. Agaricus (Russula) virescens                     123
+  12. Edible Russulæ.
+     _R. heterophylla--R. alutacea--R. lepida_         131
+  13. Russula emetica                                  139
+  14. Agaricus ostreatus                               145
+  15. Agaricus ulmarius                                151
+  16. Coprinus comatus                                 157
+  17. Coprinus atramentarius                           163
+  18. Lactarius deliciosus                             169
+  19. Cantharellus cibarius                            175
+  20. Boletus edulis                                   187
+  21. Boletus scaber                                   193
+  22. Edible Boleti.
+      _B. subtomentosus--B. chrysenteron_              199
+  23. Strobilomyces strobilaceus                       205
+  24. Suspicious Boleti.
+      _B. felleus--B. alveolatus_                      211
+  25. Fistulina hepatica                               217
+  26. Polyporus sulphureus                             225
+  27. Hydnum repandum                                  235
+  28. Hydnum caput-medusæ                              241
+  29. Hydnum caput-medusæ--habitat                     243
+  30. Clavaria formosa                                 251
+  31. Various forms of Clavaria                        253
+  32. Morchella esculenta                              259
+  33. Helvella crispa                                  265
+  34. A group of Puff-balls                            271
+  35. Spore-surface and spore-print of Agaricus        283
+  36. Spore-surface and spore-print of
+      Polyporus (_Boletus_)                            285
+  37. Spore-print of Amanita muscarius                 289
+  38. Action of slight draught on spores               291
+
+[Illustration]
+
+[Illustration: _Introduction_]
+
+[Illustration]
+
+The Spurned Harvest
+
+     "_Whole hundred-weights of rich, wholesome diet rotting under
+     the trees; woods teeming with food and not one hand to gather
+     it; and this, perhaps, in the midst of poverty and all manner of
+     privations and public prayers against imminent famine._"
+
+                                                   C. D. BADHAM
+
+
+
+
+Introduction
+
+A prominent botanical authority connected with one of our universities,
+upon learning of my intention of perpetrating a popular work on our
+edible mushrooms and toadstools, was inclined to take issue with me
+on the wisdom of such publication, giving as his reasons that, owing
+to the extreme difficulty of imparting exact scientific knowledge
+to the "general reader," such a work, in its presumably imperfect
+interpretation by the very individuals it is intended to benefit, would
+only result, in many instances, in supplanting the popular wholesome
+distrust of all mushrooms with a rash over-confidence which would tend
+to increase the labors of the family physician and the coroner. And, to
+a certain extent, in its appreciation of the difficulty of imparting
+exact science to the lay mind, his criticism was entirely reasonable,
+and would certainly apply to any treatise on edible mushrooms for
+popular circulation which contemplated a too extensive field, involving
+subtle botanical analysis and nice differentiation between species.
+
+[Sidenote: =Identification of fatal species=]
+
+But when we realize the fact--now generally conceded--that most of the
+fatalities consequent upon mushroom-eating are directly traceable to
+one particular tempting group of fungi, and that this group is moreover
+so distinctly marked that a _tyro_ could _learn_ to distinguish it,
+might not such a popular work, in its emphasis by careful portraiture
+and pictorial analysis of this deadly genus--placarding it so clearly
+and unmistakably as to make it readily recognizable--might not such a
+work, to that extent at least, accomplish a public service?
+
+[Sidenote: =Conservative mycology=]
+
+Moreover, even the most conservative mycologist will certainly admit
+that out of the hundred and fifty of our admittedly esculent species
+of fungi there might be segregated a few which bear such conspicuous
+characters of outward form and other unique individual features--such
+as color of spores, gills, and tubes, taste, odor, surface character,
+color of milky juice, etc.--as to render them easily recognizable even
+by the "general reader."
+
+It is in the positive, affirmative assumption of these premises that
+the present work is prepared, comprising as it does a selection of a
+score or more, as it were, self-placarded esculent species of fungi,
+while putting the reader safely on guard against the fatal species and
+a few other more or less poisonous or suspicious varieties which remote
+possibility might confound with them.
+
+[Sidenote: =Popular interest in mushrooms=]
+
+Since the publication of a recent magazine article on this topic, and
+which became the basis of the present elaboration, I have been favored
+with a numerous and almost continuous correspondence upon mushrooms,
+including letters from every State in the Union, to say nothing of
+Canada and New Mexico, evincing the wide-spread interest in the fungus
+from the gustatory point of view. The cautious tone of most of these
+letters, in the main from neophyte mycologists, is gratifying in its
+demonstration of the wisdom of my position in this volume, or, as one
+of my correspondents puts it, "the frightening of one to death at the
+outset while extending an invitation to the feast." "Death was often
+a consequence of toadstool eating," my friend continued, "but I never
+before realized that it was a _certain_ result with _any_ particular
+mushroom, and to the extent of this information I am profoundly
+thankful."
+
+[Sidenote: =Caution at the threshold=]
+
+While, then, from the point of view of desired popularity of my book,
+the grim greeting of a death's-head upon the frontispiece might be
+considered as something of a handicap, the author confesses that this
+attitude is the result of "malice prepense" and deliberation, realizing
+that he is not offering to the "lay public," for mere intellectual
+profit, this scientific analysis of certain fungus species. Were this
+alone the _raison d'être_ or the logical outcome of the work--mere
+_identification_ of edible and poisonous species--the grewsome symbol
+which is so conspicuous on two of my pages might have been spared. But
+when it is remembered that with the selected list of esculent mushrooms
+herein offered is implied also an invitation and a recommendation to
+the feast thereof, with the author as the host--that the digestive
+functions of his confiding friends or guests are to be made the final
+arbiters of the correctness of his botanical identification--the ban
+of bane may as well be pronounced at the threshold. Let the too eager
+epicurean be "scared to death at the outset," on the general principle
+_pro bono publico_, and to the conciliation of the author's conscience.
+
+[Sidenote: =To correspondents=]
+
+The oft-repeated queries of other correspondents suggest the wisdom
+of a clearer definition of the limitations of the present work.
+Several individuals have written in surprise of their discovery of
+a new toadstool which I "did not include in my pictured magazine
+list," with accompaniment of more or less inadequate description and
+somewhat enigmatical sketches, and desiring the name of the species
+and judgment upon its esculent qualities. Such correspondence is a
+pleasing tribute to an author, and is herewith gratefully acknowledged
+as to the past and, with some mental reservations, welcomed as to the
+future. The number of these communications--occasionally several in
+a day, and with consequent rapid accumulation--renders it absolutely
+impossible for a busy man to give them the prompt personal attention
+which courtesy would dictate. My "mushroom" pigeon-hole, therefore, is
+still plethoric with the unhonored correspondence of many weeks; and
+inasmuch as the continual accession more than balances the number of
+my responses, a fulfilment of my obligations in this direction seems
+hopeless in contemplation. I would therefore beg the indulgence of
+such of my friends as have awaited in vain for my reply to their kind
+communications, even though the future should bring no tidings from me.
+All of these letters have been received, and are herewith acknowledged:
+many of them, too, if I may be pardoned what would seem to be a most
+ungracious comment, for which the "dead-letter" office would have been
+the more appropriate destination.
+
+[Sidenote: =Consider the recipient=]
+
+I refer to the correspondence "with accompanying specimens," the letter
+occasionally enclosed in the same box with the said specimens, which,
+upon its arrival, arouses a protest from the local postal authorities,
+and calls for a liberal use of disinfectants--a disreputable-looking
+parcel, which, indeed, would appear more consistently referable to the
+health-board than to the mycologist. So frequent did this embarrassing
+episode become that it finally necessitated the establishment of a
+morgue for the benefit of my mushroom correspondents, or rather for
+their "specimens," usually accompanied with the queries, "What is
+the name of this mushroom? Is it edible?" I have been obliged to
+write to several of my friends that identification of the remains was
+impossible, that the remnant was more interesting entomologically than
+botanically, and begging that in the future all such similar tokens
+shall be forwarded in alcohol or packed in ice.
+
+[Sidenote: =Rapid decay=]
+
+"First impressions are lasting" and "a word to the wise is sufficient."
+I would suggest that correspondents hereafter consider the hazard of
+an introduction under such questionable auspices. Most species of
+mushrooms are extremely perishable, and their "animal" character,
+chemically considered, and their tendency to rapid decomposition,
+render them unfit for transportation for any distance, unless
+hermetically sealed, or their decay otherwise anticipated.
+
+In the possibility of a continuance of this correspondence, consequent
+upon the publication of this present book, the writer, in order to
+forefend a presumably generous proportion of such correspondence,
+would here emphasize the fact that he is by no means the authority on
+mycology, or the science of fungi, which the attitude of his inquiring
+friends would imply. Indeed, his knowledge of species is quite limited.
+An early fascination, it is true, was humored with considerable zeal
+to the accumulation of a portfolio of water-colors and other drawings
+of various fungi--microscopic, curious, edible, and poisonous--and
+this collection has been subsequently added to at intervals during his
+regular professional work.
+
+More than one of the originals of the accompanying colored plates have
+been hidden in this portfolio for over twenty years, and a larger
+number for ten or fifteen years, awaiting the further accumulation
+of that knowledge and experience, especially with reference to the
+edibility of species, which should warrant the utterance of the
+long-contemplated book.
+
+[Sidenote: =Number of mushroom species=]
+
+The reader will therefore kindly remember that out of the approximate
+1000 odd species of fungi entitled by their dimensions to the dignity
+of "toadstools" or "mushrooms"--after separating the 2000 moulds,
+mildews, rusts, smuts, blights, yeasts, "mother," and other microscopic
+species--and out of the 150 recommended edible species, the present
+work includes only about thirty. This selection has _direct reference
+to popular utility_, only such species having been included as offer
+some striking or other individual peculiarity by which they may be
+simply identified, even without so-called scientific knowledge.
+
+The addition of color to the present list enables its extension
+somewhat beyond the scope of a series printed only in black and white,
+as in the distinction of mere form alone an uncolored drawing of a
+certain species might serve to the popular eye as a common portrait of
+a number of allied species, possibly including a poisonous variety.
+
+[Sidenote: =Mycology and mycophagy=]
+
+[Sidenote: =Need of a practical work=]
+
+While the study of "fungi" has a host of devotees, the mysteries which
+involve the origin of life in this great order of the _cryptogamia_
+having had fascinating attractions to microscopical students and
+specialists, the study of _economic mycology_ has been almost without
+a champion in the United States. Thus we have many learned treatises
+on the nature, structure, and habits of fungi--vegetative methods,
+chemical constituents, specific characters, classification--learned
+dissertations on the microscopical moulds, mildews, rusts and smuts,
+blights and ferments, to say nothing of the medico-scientific and
+awe-inspiring potentialities of the sensational microbe, bacterium,
+bacillus, etc., which are daily bringing humanity within their spell
+and revolutionizing the science of medicine. But among all the various
+mycological publications we look in vain for the great desideratum of
+the practical hand-book on the _economic_ fungus--the _mushroom as
+food_! The mycologist who has been courageous enough to submit his
+chemical analysis and his botanical knowledge of fungi to the test
+of esculence in his own being is a _rara avis_ among them; indeed, a
+well-known authority states that "one may number on the fingers of
+his two hands the entire list of mycophagists in the United States."
+The absence of such works upon the mushroom and "toadstool," greatly
+desired for reference at an early period of my career, and little
+better supplied to-day, led to a resolve of which this volume is but an
+imperfect fulfilment.
+
+[Sidenote: =Limitations of this volume=]
+
+The special character of my volume, then--the collateral consideration
+of the fungus as food--will be sufficient excuse for the omission of
+a merely technical discourse upon the structure, classification, and
+vegetation of fungi as a class--a field so fully covered by other
+authors more competent to discuss these lines of special science,
+and to a selection of whose works the reader is referred in the list
+herewith appended, to a number of which I am indebted for occasional
+quotations. A general idea of the methods of dissemination and habitats
+of fungi will be found in the final chapter on "spore-prints," while
+under the discussion of the "Amanita," _Agaricus campestris_, and
+the "Fairy Ring" the reader is referred to a condensed account of
+the methods of vegetation and growth of fungi sufficient for present
+purposes. Other references of similar character will be noted under
+"Fungi," in Index.
+
+[Sidenote: =The pioneer American mycophagist=]
+
+The most conspicuous disciple of mycophagy--almost the pioneer, indeed,
+in America--was the late Rev. M. A. Curtis, of North Carolina, whose
+name heads the bibliography on page 325. For the benefit of those of my
+readers who may wish to follow the subject further than my pages will
+lead them, I append the list of edible species of fungi contained in
+Curtis's Catalogue, each group alphabetically arranged, the esculent
+qualities of many of which he himself discovered and attested by
+personal experiment. The favorite habitat of each fungus is also given,
+and to avoid any possibility of confusion in scientific nomenclature or
+synonymes, the authority for the scientific name is also given in each
+instance:
+
+           LIST OF EDIBLE AMERICAN MUSHROOMS
+         FROM THE CATALOGUE OF DR. M. A. CURTIS
+
+  _Agaricus albellus._ De Candolle. Damp woods.
+  _A. (amanita) Cæsarea._ Scopoli. In oak forests.
+  _A. (amanita) rubescens._ Persoon. Damp woods.
+  _A. (amanita) strobiliformis._ Vittadini. Common in woods.
+  _A. amygdalinus._ M. A. Curtis. Rich grounds, woods, and lanes.
+  _A. arvensis._ Schaeffer. Fields and pastures.
+  _A. bombicinus._ Schaeffer. Earth and carious wood.
+  _A. campestris._ Linnæus. Fields and pastures.
+  _A. castus._ M. A. Curtis. Grassy old fields.
+  _A. cespitosus._ M. A. Curtis. Base of stumps.
+  _A. columbella._ Fries. Woods.
+  _A. consociatus._ Pine woods.
+  _Agaricus cretaceus._ Fries. Earth and wood.
+  _A. esculentus._ Jacquin. Dense woods.
+  _A. excoriatus._ Fries. Grassy lands.
+  _A. frumentaceous._ Bulliard. Pine woods.
+  _A. giganteus._ Sowerby. Borders of pine woods.
+  _A. glandulosus._ Bulliard. Dead trunks.
+  _A. hypopithyus._ M. A. Curtis. Pine logs.
+  _A. mastoideus._ Fries. Woods.
+  _A. melleus._ Valmy. About stumps and logs.
+  _A. mutabilis._ Schaeffer. Trunks.
+  _A. nebularis._ Batsch. Damp woods.
+  _A. odorus._ Bulliard. Woods.
+  _A. ostreatus._ Jacquin. Dead trunks.
+  _A. personatus._ M. A. Curtis. Near rotten logs.
+  _A. pometi._ Fries. Carious wood.
+  _A. procerus._ Scopoli. Woods and fields.
+  _A. prunulus._ Scopoli. Damp woods.
+  _A. rachodes._ Vittadini. Base of stumps and trees.
+  _A. radicatus._ Bulliard. Woods.
+  _A. (russula)._ Schaeffer. Among leaves in woods.
+  _A. salignus._ Persoon. On trunks and stumps.
+  _A. speciosus._ Fries. Grassy land.
+  _A. squamosus._ Muller. Oak stumps.
+  _A. sylvaticus._ Schaeffer. Woods.
+  _A. tessellatus._ Bulliard. Pine trunks.
+  _A. ulmarius._ Sowerby. Dead trunks.
+  _Boletus bovinus._ Linnæus. Pine woods.
+  _B. castaneus._ Bulliard. Woods.
+  _B. collinitus._ Fries. Pine woods.
+  _B. edulis._ Bulliard. Woods.
+  _B. elegans._ Fries. Earth in woods.
+  _B. flavidus._ Fries. Damp woods.
+  _B. granulatus._ Linnæus. Woods and fields.
+  _B. luteus._ Linnæus. Pine woods.
+  _B. scaber._ Bulliard. Sandy woods.
+  _B. subtomentosus._ Linnæus. Earth in woods.
+  _B. versipellis._ Fries. Woods.
+  _Bovista nigrescens._ Persoon. Grassy fields.
+  _B. plumbea._ Persoon. Grassy fields.
+  _Cantharellus cibarius._ Fries. Woods.
+  _Clavaria aurea._ Schaeffer. Earth in woods.
+  _C. botritis._ Persoon. Earth in woods.
+  _C. cristata._ Holmskiold. Damp woods.
+  _C. fastigiata._ Linnæus. Grassy places.
+  _C. flava._ Fries. Earth in woods.
+  _C. formosa._ Persoon. Earth in woods.
+  _Clavaria fuliginea._ Persoon. Shady woods.
+  _C. macropus._ Persoon. Earth.
+  _C. muscoides._ Linnæus. Grassy places.
+  _C. pyxidata._ Persoon. Rotten woods.
+  _C. rugosa._ Bulliard. Damp woods.
+  _C. subtilis._ Persoon. Shaded banks.
+  _C. tetragona._ Schwartz. Damp woods.
+  _Coprinus atramentarius._ Bulliard. Manured ground.
+  _C. comatus._ Fries. In stable-yards.
+  _Cortinarius castaneus._ Fries. Earth in woods.
+  _C. cinnamomeus._ Fries. Earth and wood.
+  _C. violaceus._ Fries. Woods.
+  _Fistulina hepatica._ Fries. Base of trunks and stumps.
+  _Helvella crispa._ Fries. Pine in woods.
+  _H. infula._ Schaeffer. Earth and pine logs.
+  _H. lacunosa._ Afzelius. Near rotten logs.
+  _H. sulcata._ Afzelius. Shady woods.
+  _Hydnum caput-medusæ._ Bulliard. Trunks and logs.
+  _H. coralloides._ Scopoli. Side of trunks.
+  _H. imbricatum._ Linnæus. Earth in woods.
+  _H. laevigatum._ Schwartz. Pine woods.
+  _H. repandum._ Linnæus. Woods.
+  _H. rufescens._ Schaeffer. Woods.
+  _H. subsquamosum._ Batsch. Damp woods.
+  _Hygrophorus eburneus._ Fries. Woods.
+  _H. pratensis._ Fries. Hill-sides.
+  _Lactarius augustissimus._ Lasch. Thin woods.
+  _L. deliciosus._ Fries. Pine woods.
+  _L. insulsus._ Fries. Woods.
+  _L. piperatus._ Fries. Dry woods.
+  _L. subdulcis._ Fries. Damp grounds.
+  _L. volemus._ Fries. Woods.
+  _Lycoperdon bovista._ Linnæus. Grassy lands.
+  _Pachyma cocos._ Fries. Underground.
+  _Paxillus involutus._ Fries. Sandy woods.
+  _Polyporus Berkeleii._ Fries. Woods.
+  _P. confluens._ Fries. Pine woods.
+  _P. cristatus._ Fries. Pine woods.
+  _P. frondorus._ Fries. Earth and base of stumps.
+  _P. giganteus._ Fries. Base of stumps.
+  _P. leucomelas._ Fries. Woods.
+  _P. ovinus._ Schaeffer. Earth in woods.
+  _P. poripes._ Fries. Wooded ravines.
+  _P. sulphureus._ Fries. Trunks and logs.
+  _Marasmius oreades._ Fries. Hill-sides.
+  _M. scorodoneus._ Fries. Decaying vegetation.
+  _Morchella Caroliniana._ Bosc. Earth in woods.
+  _M. esculenta._ Persoon. Earth in woods.
+  _Russula alutacea._ Fries. Woods.
+  _R. lepida._ Fries. Pine woods.
+  _R. virescens._ Fries. Woods.
+  _Sparassis crispa._ Fries. Earth.
+  _S. laminosa._ Fries. Oak logs.
+  _Tremella mesenterica._ Retz. On bark.
+
+In the contemplation of such a generous natural larder as the above
+list implies, Dr. Badham's feeling allusion to the "hundred-weights of
+wholesome diet rotting under the trees," quoted in one of my earlier
+illustrated pages, will be readily appreciated.
+
+[Sidenote: =Restricted scope of this volume=]
+
+In the purposely restricted scope of these pages I have omitted a large
+majority of species in Dr. Curtis's list, known to be equally esculent
+with those which I have selected, but whose _popular differentiation_
+might involve too close discrimination and possibly serious error; and
+while my list is probably not as complete as it might be with perfect
+safety, the number embraces species, nearly all of them what may be
+called cosmopolitan types, to be found more or less commonly throughout
+the whole United States and generally identical with European species.
+It will be observed that the list of Dr. Curtis is headed by three
+members of Amanitæ. The particular species cited are well known to
+be esculent, but they are purposely omitted from my list, which for
+considerations of safety absolutely excludes the entire genus _Amanita_
+of the "_poison-cup_" which is discussed at some length in the
+succeeding chapter.
+
+For popular utility from the food standpoint my selection presents,
+to all intents and purposes, a more than sufficient list, the species
+being easily distinguished, and, with proper consideration to their
+freshness, entirely safe and of sufficient frequency in their haunts to
+insure a continually available mushroom harvest throughout the entire
+fungus season.
+
+[Sidenote: =Fungus food always available=]
+
+The knowledge of their identities once acquired, it is perfectly
+reasonable to assert that in average weather conditions the
+fungus-hunter may confine himself to these varieties and still be
+confronted with an embarrassment of riches, availing himself of
+three meals a day, with the mere trouble of a ramble through the
+woods or pastures. Indeed, he may restrict himself to six of these
+species--the green Russula, Puff-ball, Pasture-mushroom, Campestris
+(meadow-mushroom), Shaggy-mane, and _Boletus edulis_--and yet become a
+veritable mycological gourmand if he chooses, never at a loss for an
+appetizing entrée at his table.
+
+In the group of Russulæ and Boleti alone, more than one conservative
+amateur of the writer's acquaintance finds a sufficient supply to meet
+all dietary wants.
+
+[Sidenote: =A neglected harvest=]
+
+What a plenteous, spontaneous harvest of delicious feasting annually
+goes begging in our woods and fields!
+
+The sentiment of Dr. Badham, the eminent British authority on
+mushrooms, years ago, in reference to the spontaneous perennial harvest
+of wild edible fungi which abounded in his country, going to waste by
+the ton, would appear to be as true to-day for Britain as when he
+uttered it, and applies with even greater force to the similar, I may
+say identical, neglected tribute of Nature in our own American woods
+and fields, where the growth of fungi is especially rich.
+
+[Sidenote: =Fungus epicures=]
+
+The fungus-eaters of Britain, it is said, are even to-day merely
+a conspicuous coterie, while in America this particular sort of
+specialist is more generally an isolated "crank" who is compelled to
+"flock alone," contemplated with a certain awe by his less venturesome
+fellows, and otherwise variously considered, either with envy of
+his experience and scientific knowledge, or more probably as an
+irresponsible, who continually tempts Providence in his foolhardy
+experiments with poison.
+
+[Sidenote: =Chemical constituents=]
+
+But what a contrast do we find on the Continent in the appreciation
+of the fungus as an article of diet! In France, Germany, Russia, and
+Italy, for example, where the woods are scoured for the perennial crop,
+and where, through centuries of popular familiarity and tradition,
+the knowledge of its economic value has become the possession of the
+people, a most important possession to the poor peasant who, perhaps
+for weeks together, will taste no other animal food. I say "animal
+food" advisedly; for, gastronomically and chemically considered, the
+flesh of the mushroom has been proven to be almost identical with meat,
+and possesses the same nourishing properties. This animal affinity
+is further suggested in its physiological life, the fungus reversing
+the order of all other vegetation in imbibing oxygen and exhaling
+carbonic acid, after the manner of animals. It is not surprising,
+therefore, that the analogy should be still further emphasized by
+the discrimination of the palate, many kinds of fungi when cooked
+simulating the taste and consistency of animal food almost to the point
+of deception.
+
+[Sidenote: =Popular distrust of fungi=]
+
+But in America the fungus is under the ban, its great majority of
+harmless or even wholesome edible species having been brought into
+popular disrepute through the contamination, mostly, of a single small
+genus.
+
+In the absence of special scientific knowledge, or, from our present
+point of view, its equivalent, popular familiarity, this general
+distrust of the whole fungus tribe may be, however, considered a
+beneficent prejudice. So deadly is the insidious, mysterious foe that
+lurks among the friendly species that it is well for humanity in
+general that the entire list of fungi should share its odium, else
+those "toadstool" fatalities, already alarmingly frequent, might become
+a serious feature in our tables of mortality.
+
+[Sidenote: =Fungus food for all=]
+
+But the prejudice is needlessly sweeping. A little so-called knowledge
+of fungi has often proven to be a "dangerous thing," it is true, but
+it is quite possible for any one of ordinary intelligence, rightly
+instructed, to master the discrimination of at least a _few_ of the
+more _common edible_ species, while being _thoroughly equipped_
+against the dangers of _deadly_ varieties, whose identification is
+comparatively simple.
+
+[Sidenote: ="Toadstool" and "mushroom"=]
+
+It is idle to attempt an adjudication of the vexed "toadstool"
+and "mushroom" question here. The toad is plainly the only final,
+appealable authority on this subject. It may be questioned whether he
+is at pains to determine the delectable or noisome qualities--from the
+human standpoint--of a particular fungus before deciding to settle his
+comfortable proportions upon its summit--if, indeed, he even so honors
+even the humblest of them.
+
+The oft-repeated question, therefore, "Is this fungus a toadstool or a
+mushroom?" may fittingly be met by the counter query, "Is this rose a
+flower or a blossom?"
+
+The so-called distinction is a purely arbitrary, popular prejudice
+which differentiates the "toadstool" as poisonous, the "mushroom" being
+considered harmless. But even the rustic authorities are rather mixed
+on the subject, as may be well illustrated by a recent incident in my
+own experience.
+
+[Sidenote: =Popular discrimination=]
+
+Walking in the woods with a country friend in quest of fungi, we
+were discussing this "toadstool" topic when we came upon a cluster
+of mushrooms at the base of a tree-trunk, their broad, expanded caps
+apparently upholstered in fawn-colored, undressed kid, their under
+surfaces being stuffed and tufted in pale greenish hue.
+
+"What would you call those?" I inquired.
+
+"Those are toadstools, unmistakably," he replied.
+
+"Well, toadstools or not, you see there about two pounds of
+delicious vegetable meat, for it is the common species of edible
+boletus--_Boletus edulis_."
+
+A few moments later we paused before a beautiful specimen, lifting its
+parasol of pure white above the black leaf mould.
+
+"And what is this?" I inquired.
+
+"I would certainly call _that_ a mushroom," was his instant reply.
+
+This mushroom proved to be a fine, tempting specimen of the _Agaricus_
+(_amanita_) _vernus_, the deadliest of the mushrooms, and one of the
+most violent and fatal of all known vegetable poisons, whose attractive
+graces and insidious wiles are doubtless continually responsible for
+those numerous fatalities usually dismissed with the epitaph, "Died
+from eating toadstools in mistake for mushrooms."
+
+So much, therefore, for the popular distinction which makes "toadstool"
+a synonyme for "poisonous," and "mushroom" synonymous with "edible,"
+and which often proves to be the "little knowledge" which is very
+dangerous.
+
+[Sidenote: =The rustic authorities on "mushrooms"=]
+
+The too prevalent mortality traceable to the mushroom is confined to
+two classes of unfortunates: 1. Those who have not learned that there
+is such a thing as a fatal mushroom; 2. The provincial authority who
+Can "tell a mushroom" by a number of his so-called infallible "_tests_"
+or "proofs." There is a large third class to whose conservative
+caution is to be referred the prevalent arbitrary distinction between
+"toadstool" and "mushroom," ardent disciples of old Tertullian, who
+believed in regard to toadstools that "For every different hue they
+display there is a pain to correspond to it, and just so many modes of
+death as there are distinct species," and whose obstinate dogma, "There
+is only one mushroom, all the rest are toadstools," has doubtless
+spared them an occasional untimely grave, for few of this class, from
+their very conservatism, ever fall victims to the "toadstool."
+
+And what a self-complacent, patronizing, solicitous character this
+rustic mushroom oracle is! Go where you will in the rural districts
+and you are sure of him, or perhaps her--usually a conspicuous figure
+in the neighborhood, the village blacksmith, perhaps, or the simpler
+"Old Aunt Huldy." Their father and "granther" before them "knew how to
+tell a mushroom," and this enviable knowledge has been their particular
+inheritance.
+
+How well we more special students of the fungus know him! and how he
+wins our tender regard with his keen solicitude for our well-being!
+We meet him everywhere in our travels, and always with the same old
+story! We emerge from the wood, perhaps, with our basket brimful of our
+particular fungus tidbits, topped off with specimens of red Russula
+and Boletus, and chance to pass him on the road or in the meadow. He
+scans the basket curiously as he passes us. He has perhaps heard rumors
+afloat that "there's a city chap in town who is tempting Providence
+with his foolin' with tudstools;" and with genuine solicitude and
+superior condescension and awe, all betrayed in his countenance, he
+must needs pause in his walk to relieve his mind in our behalf. I
+recall one characteristic episode, of which the above is the prelude.
+
+"Ye ain't a-goin' to eat _them_, air ye?" he asks, anxiously, by way of
+introduction.
+
+[Sidenote: =Rustic discrimination=]
+
+"I am, most certainly," I respond; "that is, if I can get my good
+farmer's wife to cook them without coming them and inundating them in
+lemon-juice."
+
+"Waal, then, I'll say good-bye to ye," he responds, with emphasis.
+"Why, don't ye know them's tudstools, 'n' they'll _kill_ ye as _sartin_
+as _pizen_? I wonder they ain't fetched ye afore this. You never larned
+tew tell mushrooms. My father et 'em all his life, and so hev I, 'n' I
+_know_ 'em. Come up into my garden yender 'n' I'll show ye haow to tell
+the _reel mushroom_. There's a lot of 'em thar in the hot-bed naow.
+Come along. I'll _give_ ye a mess on 'em if ye'll only throw them pizen
+things away."
+
+"And how do you know that those in your garden _are_ real mushrooms?" I
+inquire.
+
+"Why, they ain't _anything_ like _them_ o' yourn. They're pink and
+black underneath, and peel up from the edge."
+
+"How many kinds of mushrooms are there, do you suppose?" I ask.
+
+"They's only the _one_ kind; all the others is _tudstools_ and _pizen_.
+It's easy to tell the _reel_ mushroom. Come up and I'll show ye. Don't
+eat _them_ things, I beg on ye! I vaow they'll _kill_ ye!"
+
+At this point he catches a glimpse of a Shaggy-mane mushroom, which
+comes to light as I tenderly fondle the specimens, and which is
+evidently recognized as an acquaintance.
+
+"What!" he exclaims, in pale alarm. "Ye _ain't_ goin' t' eat them
+_too_?"
+
+"Oh yes I am, this very evening," I respond. "I think I'll try them
+_first_."
+
+[Sidenote: =A rustic authority= ]
+
+"Why, man, yure crazy! You don't know nothin' about 'em. I'd as soon
+think o' eatin' pizen outright. Them's what we call black-slime
+tudstools. They come up out o' manure. I've seen my muck-heap in my
+barnyard covered with the nasty things time 'n' ag'in. They look nice
+'n' white naow, but they rot into the onsiteliest black mess ye ever
+see. I know wut I'm sayin'. Ye can't tell me nothin' 'baout _them_
+tudstools! They keep comin' up along my barn-fence all thro' the
+fall--_bushels_ of 'em."
+
+"Well, my good friend, it's a great pity, then, that you have not
+learned something about toadstools as well as mushrooms, for you might
+have saved many a butcher's bill, and may in the future if you will
+only take my word that this much-abused specimen is as truly a mushroom
+as your pink-gilled peeler, and to my mind far more delicious."
+
+"What! Do you mean to tell me thet you have _reely eaten 'em_?"
+
+"Yes, indeed; often. Why, just look at its clean, shaggy cap, its
+creamy white or pink gills underneath; take a sniff of its pleasant
+aroma; and here! just taste a little piece--it's as sweet as a nut!" I
+conclude, offering him the white morsel.
+
+"Not much! I'll make my will first, thank'ee! You let me _see_ ye eat a
+mess of 'em, and if the coroner don't get ye, p'r'aps I'll try on't."
+
+[Sidenote: ="Toadstool" prejudice=]
+
+Experiences similar to this one are frequent in the career of every
+mycophagist, and serve to illustrate the pity and solicitude which
+he awakens among his fellow-mortals, as well as to emphasize the
+prevalent superstitions regarding the comparative virtues of the
+mushroom and toadstool--a prejudice which, by-the-way, in the absence
+of available popular literature on the subject, and the actual dangers
+which encompass their popular distinction, is a most beneficent public
+safeguard.
+
+[Sidenote: =Popular tests and superstitions=]
+
+The mushroom which "he can tell" is generally the _Agaricus
+campestris_, or one of its several varieties; and knowing this alone,
+and tempted by no other, this sort of village oracle escapes the fate
+which often awaits another class, who are not thus conservative,
+and who extend their definition of mushroom (a word supposed to be
+synonymous with "edible"), and this mainly through the indorsement
+of certain so-called infallible tests handed down to them from their
+forefathers, and by which the esculent varieties may be distinguished
+from the poisonous. By these so-called "tests" or "proofs" the
+identification of certain species is gradually acquired. The rural
+fungus epicure now "knows them by sight," or perhaps has received his
+information second-hand, and makes his selection without hesitation,
+with what success may be judged from the incident in my own experience
+already noted--one which, knowing as I did the frequency and confidence
+with which my country friend sampled the fungi at his table, filled me
+with consternation and anxiety for his future.
+
+"How, then, shall we distinguish a mushroom from a toadstool?"
+
+There is no way of distinguishing them, for they are the same.
+
+"How, then, shall we know a poisonous toadstool from a harmless one?"
+the reader hopelessly exclaims.
+
+This discrimination is by no means as difficult as is popularly
+supposed, but in the first place, the student must entirely rid himself
+of all preconceived notions and traditions, such as the following
+almost world-wide "tests," many of which are easily demonstrated to be
+worse than worthless, and have doubtless frequently led to an untimely
+funeral. Some of these are merely local, and in widely separated
+districts are supplanted by others equally arbitrary and absurd, while
+many of them are as old as history.
+
+
+  WORTHLESS TRADITIONAL TESTS FOR THE DISCRIMINATION
+          OF POISONOUS AND EDIBLE MUSHROOMS
+
+                   FAVORABLE SIGNS
+
+    1. Pleasant taste and odor.
+    2. Peeling of the skin of the cap from rim to centre.
+    3. Pink gills, turning brown in older specimens.
+    4. The stem easily pulled out of the cap and inserted in it
+  like a parasol handle.
+    5. Solid stems.
+    6. Must be gathered in the morning.
+    7. "Any fungus having a pleasant taste and odor, being found
+  similarly agreeable after being plainly broiled without the
+  least seasoning, is perfectly safe."
+
+                  UNFAVORABLE SIGNS
+
+    8. Boiling with a "silver spoon," the staining of the silver
+  indicating danger.
+    9. Change of color in the fracture of the fresh mushroom.
+   10. Slimy or sticky on the top.
+   11. Having the stems at their sides.
+   12. Growing in clusters.
+   13. Found in dark, damp places.
+   14. Growing on wood, decayed logs, or stumps.
+   15. Growing on or near manure.
+   16. Having bright colors.
+   17. Containing milky juice.
+   18. Having the gill plates of even length.
+   19. Melting into black fluid.
+   20. Biting the tongue or having a bitter or nauseating taste.
+   21. Changing color by immersion in salt-water, or upon being
+  dusted with salt.
+
+These present but a selection of the more prevalent notions. Taken
+_in toto_, they would prove entirely safe, as they would practically
+exclude every species of mushroom or toadstool that grows. But as a
+rule the village oracle bases his infallibility upon two or three
+of the above "rules," and inasmuch as the entire list absolutely
+_omits_ the _only_ one test by which danger is to be avoided, it is
+a seven-days' wonder that the grewsome toadstool epitaph is not more
+frequent.
+
+[Sidenote: =Absolute worthlessness of above tests=]
+
+I once knew an aged dame who was accepted as a village oracle on
+this as well as other topics, such as divining, palmistry, and
+fortune-telling, and who ate and dispensed toadstools on a few of
+the above rules. Strange to say, she lived to a good old age, and
+no increased mortality is credited to her memory as a result of her
+generosity.
+
+How are these popular notions sustained by the facts? Let us analyze
+them seriatim and confront each with its refutation, the better to show
+their entire untrustworthiness.
+
+
+POPULAR TESTS REFUTED
+
+[Sidenote: =Worthless popular tests=]
+
+_Pleasant taste and odor_ (1) is a conspicuous feature in the regular
+"mushroom" (_Agaricus campestris_), and most other edible fungi, but as
+a criterion for safety it is a mockery. The deadly _Agaricus amanita_,
+already mentioned, has an inviting odor and to most people a pleasant
+taste when raw, and being cooked and eaten gives no token of its fatal
+resources until from six to twelve hours after, when its unfortunate
+victim is past hope. (See p. 68.)
+
+The _ready peeling_ of the skin (2) is one of the most widely prevalent
+proofs of probation, and is often considered a _sufficient_ test; yet
+the Amanita will be found to peel with a degree of accommodation which
+would thus at once settle its claims as a "mushroom." Indeed, a large
+number of species, including several poisonous kinds, will peel as
+perfectly as the Campestris.
+
+_The pink gills turning brown_(3) is a marked characteristic of the
+"mushroom" (_A. campestris_, Plate 5), and, being a rare tint among
+the fungus tribe, is really one of the most valuable of the tests,
+especially as it is limited by rules affecting other pink-gilled
+species.
+
+_The stem being easily pulled out of the cap_ (4) applies to several
+edible species, but equally to the poisonous.
+
+[Sidenote: =Worthless popular tests=]
+
+The notion that _edible mushrooms have solid stems_ (5) would be a
+very unsafe talisman for us to take to the woods in our search for
+fungus-food. Many poisonous species are thus solid--the emetic Russula,
+for example--while the alleged importance of the =morning specimens=
+(6) is without the slightest foundation.
+
+The passage quoted here (7), or a statement to the same effect, was
+quite widely circulated in the newspapers a dozen or more years ago, in
+an article which bore all the indications of authoritative utterance,
+the assumption being that the poisonous mushroom would invariably give
+some forbidding token to the senses by which it might be discriminated.
+
+Woe to the fungus epicure who should sample his mushrooms and
+toadstools on such a criterion as this, as the _most fatal of all
+mushrooms_, the _Amanita vernus_, would fulfil all these requisites.
+
+_The discoloration of silver_ (8) is a test as old as Pliny at least,
+a world-wide popular touchstone for the detection of deleterious
+fungi, but useful only in the fact that it will often exclude a poison
+not contemplated in the discrimination. On this point, especially as
+it affords opportunity to emphasize a common disappointment of the
+mushroom-eater, I quote from a recent work by Julius A. Palmer (see
+Bibliography, No. 3): "Mushrooms decay very rapidly. In a short time a
+fair, solid fungus becomes a mass of maggots which eat its tissue until
+its substance is honey-combed; these cells, on a warm day, are charged
+with the vapors of decomposition. Now you put such mushrooms as these
+(and I have seen just such on the markets of Boston and London) over
+the fire. In boiling, sulphuretted hydrogen or other noxious gases are
+liberated; you stir with a bright spoon and it is discolored; proud of
+your test, you throw away your stew. Now this is right, but if from
+this you conclude that all fungus which discolors silver is poisonous
+and that which leaves it bright is esculent, you are in dangerous
+error. It is the same with fish at sea. Tradition says that you must
+fry a piece of silver with them and throw them away if it discolors.
+Certainly the experiment does no harm, and shows a decomposition in
+both cases which might have been detected without the charm." Opposed
+to this so-called talisman, how grim is the fact that the deadliest of
+all mushrooms, the Amanita, in its fresh condition, has no effect upon
+silver.
+

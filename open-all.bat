@@ -1,0 +1,1 @@
+@for /F "delims=" %%F in ('dir /b/s/a:-d *.java') do @edit "%%~F"

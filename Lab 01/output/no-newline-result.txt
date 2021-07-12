@@ -1,0 +1,24 @@
+// ML Instruction for expression, input line 1: AB+C-
+LD A
+AD B
+ST TEMP1
+LD TEMP1
+SB C
+ST TEMP2
+
+
+// ML Instruction for expression, input line 3: ABC+/CBA*+
+//   ERROR: Malformed expression.Too many variables not enough operators.
+
+// ML Instruction for expression, input line 5: ABC+-
+LD B
+AD C
+ST TEMP1
+LD A
+SB TEMP1
+ST TEMP2
+
+
+// ML Instruction for expression, input line 7: AB-*CBA+-*
+//   ERROR: Malformed expression near '*' in AB-*.  Operator requires two variables, has one.
+

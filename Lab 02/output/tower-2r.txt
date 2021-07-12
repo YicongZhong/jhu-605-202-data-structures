@@ -1,0 +1,16 @@
+==========================================
+Cheatsheet for solving Towers of Hanoi
+With n = 2 disks
+Program version: 1.1, recursive
+Time to create shown at end of file
+==========================================
+
+Move disk 1 from tower A to tower B
+Move disk 2 from tower A to tower C
+Move disk 1 from tower B to tower C
+
+==========================================
+Time to create: 54182 nanoseconds
+                5.4182E-5 seconds
+==========================================
+

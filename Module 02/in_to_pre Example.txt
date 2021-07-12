@@ -1,0 +1,33 @@
+A$B * C - D + E/F/(G+H)
+
+Character Read  Operator Stack    Output            
+==============  ==============    ======            
+Before Start    NULL                                
+)               )                 NULL              
+H               )                 H                 
++               ) +               H                 
+G               )                 GH                
+(               ) +               GH                
+                )                 +GH               
+                NULL              +GH               
+/               /                 +GH               
+F               /                 F+GH              
+/               / /               F+GH              
+E               / /               EF+GH             
++               / /               EF+GH             
+                /                 /EF+GH            
+                NULL              //EF+GH           
+                +                 //EF+GH           
+D               +                 D//EF+GH          
+-               + -               D//EF+GH          
+C               + -               CD//EF+GH         
+*               + - *             CD//EF+GH         
+B               + - *             BCD//EF+GH        
+$               + - * $           BCD//EF+GH        
+A               + - * $           ABCD//EF+GH       
+                + - * $           ABCD//EF+GH       
+                + - *             $ABCD//EF+GH      
+                + -               *$ABCD//EF+GH     
+                +                 -*$ABCD//EF+GH    
+                NULL              +-*$ABCD//EF+GH   
+                     

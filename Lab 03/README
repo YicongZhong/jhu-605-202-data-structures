@@ -1,0 +1,65 @@
+Adam Rich
+EN.605.202.87.SP18
+Lab 03: "Huffman Encoding"
+April 24, 2018
+
+
+This application encodes or decodes files using Huffman Encoding.
+
+Please see the PDF file in the project directory, 
+"LabHuffmanEncoding v2.pdf", for detail 
+about the lab assignment.  Also, the analysis file
+"AdamRich_Lab03_Analysis.pdf".
+
+
+Output of "java -version" on the DEV machine
+
+  java version "1.8.0_161"
+  Java(TM) SE Runtime Environment (build 1.8.0_161-b12)
+  Java HotSpot(TM) Client VM (build 25.161-b12, mixed mode, sharing)
+
+This version of Java is also known as "Java 8.0 SE"
+
+
+No IDE was used; this code was written in Notepad++ and 
+compiled from the command line.
+
+For an example of how to compile, please see "rebuild.bat".
+
+  @echo off
+  javac src\*.java
+
+Here is an example of how to run the application, 
+new lines added for readability.
+
+  java -cp src\ Lab03 
+    input\freq-backward.txt
+    input\clear-given.txt
+    output\given-encoded-backward.txt   
+    e   
+    output\freq-backward-analysis.txt    
+    d
+  
+  
+Parameters to the application:
+  1. The frequency file to use
+  2. The input file path
+  3. Path to where output is written
+  4. Whether we are encoding or decoding, 
+     Abbreviations can be used
+  5. Path where analysis of Huffman Tree is written
+  6. (Optional) 
+     What tie-break rule to use: "default" or "mirror"
+     Abbreviations can be used
+
+     
+*** Several batch files included for convenience in dev ***
+
+NOTE  
+  Processing really big files may take a long time
+  I have successfully encoded files up to 1000 lines
+  Files larger than that might work, but they have not been tested
+
+
+
+

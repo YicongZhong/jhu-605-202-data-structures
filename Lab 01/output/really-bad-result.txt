@@ -1,0 +1,15 @@
+// ML Instruction for expression, input line 1: 1234978@#$@#$
+//   ERROR: Malformed expression near '1' in 1.  Invalid character encountered.
+
+// ML Instruction for expression, input line 5: ^*^$%^@%^@$%
+//   ERROR: Malformed expression near '^' in ^.  Invalid character encountered.
+
+// ML Instruction for expression, input line 9: lasjkdfliqwoekmlaskvjoiwoiejlqwkmfoiqwer
+//   ERROR: Malformed expression near 'l' in l.  Invalid character encountered.
+
+// ML Instruction for expression, input line 13: Thisisanerror
+//   ERROR: Malformed expression near 'h' in Th.  Invalid character encountered.
+
+// ML Instruction for expression, input line 17: AB0+/CBA+-/
+//   ERROR: Malformed expression near '0' in AB0.  Invalid character encountered.
+

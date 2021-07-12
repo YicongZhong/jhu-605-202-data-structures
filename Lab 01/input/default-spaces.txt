@@ -1,0 +1,21 @@
+A B + C -
+
+AB+C-
+
+ABC+/CBA*+
+
+ABC+-
+
+AB-*CBA+-*
+
+    A   B   -   C   +   D   E       F-+$
+
+ABC-/   B  A     -+/
+
+ABCDE-+$*EF*-       
+
+ABC+ $ C        BA-+*
+
+   ABC+*CBA-+*
+
+AB0+/CBA+-/

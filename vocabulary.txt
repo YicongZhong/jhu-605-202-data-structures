@@ -1,0 +1,176 @@
+Module 01
+  Big O
+  Big Theta
+  Big Omega
+  little omega
+  little o
+  asymptotic
+  functional
+  correctness
+  pre-condition
+  post-condition
+  loop invariant
+  
+  
+  
+Module 02
+  push
+  pop
+  empty test
+  LIFO
+  prefix
+  postfix
+  infix
+
+
+Module 03
+  stopping case
+  recursive characteristic
+  redundancy
+  recurrence relation
+  closed form solution
+
+
+Module 04
+  LIFO
+  Header
+  List Head
+  List Tail
+  ordered List
+  general list
+
+
+Module 06
+  linked list
+  circular list
+  doubly-linked list
+  header
+  tail
+  multilinked list
+  node
+  vertex
+  edge
+  directed
+  undirected
+  parallel 
+  connected
+
+
+Module 07
+  rooted
+  binary tree
+  m-ary tree
+  child
+  parent
+  ancestor
+  descendent
+  sibling
+  degree
+  in-degree
+  out-degree
+
+
+Module 08
+Module 09
+Module 10
+  Searching
+    index
+    dense index
+    internal key
+    External key
+    binary search
+    interpolation search 
+  Sorting
+    comparison
+    best case
+    average case
+    worst case
+    in-place sorting
+
+
+
+Module 11
+Module 12
+Module 13
+Module 14
+
+
+
+
+
+Module 1 Objectives
+  Define Big-Oh notation and use to label functions.
+  Calculate and label the cost of simple algorithms.
+  Explain why empirical results may not match the theoretical predictions.
+  Use Big O Notation to choose one algorithm over another for a specific application.
+  Explain the conditions under which a more costly algorithm might be preferable.
+  Give examples that differentiate between the implementation and the functionality of a module of code. Explain how the implementation can affect the functionality.
+  Practice modularity in code design by consciously considering software from a user's perspective as well as from a programmer's perspective.
+  Write ADTs for specified applications using at least one of the styles discussed in class.
+  
+  
+Module 2 Objectives
+  Define a stack and the standard methods.
+  Differentiate between the rules of the stack definition and various implementation imposed restrictions.
+  Characterize problems that have a LIFO characteristic, and give examples.
+  Assess problems for appropriate use of stacks, and make implementation recommendations.
+  Write a Stack ADT and implement stacks using arrays.
+
+  
+  
+Module 3 Objectives  
+  Define recursion informally and give simple examples.
+  Define the three characteristics of recursion.
+  Illustrate those characteristics using a specific example of recursion.
+  Summarize how recursion works behind the scenes.
+  Trace recursive execution of an example piece of code.
+  Write recursive code to solve a simple, example problem.
+  Analyze a complex piece problem and recommend the use of recursion or iterations.
+  
+
+Module 04 Objectives
+  Define a queue and the standard methods.
+  Differentiate between the rules of the queue definition and implementation imposed restrictions.
+  Characterize problems that have a FIFO characteristic, and give examples.
+  Assess problems for appropriate use of queues, and make implementation recommendations.
+  Discuss the pros and cons, including costs, of the three array based approaches to implementing a queue.
+  Write a Queue ADT and Implement queues using arrays.
+  Define a list and the standard methods.
+  Differentiate between the rules of the list definition and implementation imposed restrictions.
+  Characterize problems are appropriate to using a general list and a sorted list, and give examples.
+  Assess problems for appropriate use of lists, and make implementation recommendations.
+  Write a List ADT and implement lists using plain arrays, arrays using a “marked delete” strategy, and dynamic references (links).
+  Rewrite list methods by imposing access restrictions, to obtain the standard stack and queue methods.
+  Implement stacks and queues with dynamic references.
+  Discuss the pros and cons, including costs, of each implementation type and each access restriction type and match to applications.  
+
+Module 6 Objectives
+  Discuss the pros and cons of each list variation, including costs, and match to applications, separately and in combination.
+  Implement each access restriction type and list variation using the hybrid implementation. Discuss the impact on costs.
+  Categorize and label graphs accurately using basic graph terminology.
+  
+  
+Module 7 Objectives
+  Define an m-ary tree in terms of an underlying graph.
+  Restrict an m-ary tree into a rooted tree.
+  Build a general tree using a random list of data.
+  Define and build a heap using an example data set.
+  Define and implement priority queues
+  Implement a tree using both array based and linked implementations
+  Define a Binary Tree recursively.
+  Specify the three traversal orders and generate the traversal orders on example trees.
+  Define and implement threaded trees.  
+  Appreciate Binary-op trees as an application of Binary trees and tying in earlier material from Stacks.
+  Build a balanced tree using a sorted list of data, then compare and contrast with the balanced trees built earlier.
+  Define the search tree chatacteristic
+  Perform basic insertions and deletions on search trees, explaining why the rational behind the tradtional strategy.
+  
+  
+Module 10 Objectives
+  Enumerate at least 10 factors that need to be considered in selecting a sort.
+  Discuss the pros and costs, including costs, of each of the standard sorting strategies. Consider best, average, and worst cases, and implementation and application needs, where appropriate.
+  Identify sorts that optimize a simpler strategy. Name the underlying, simpler sorting strategy and explain what aspects of the sort are leveraged.
+  Evaluate multiple sort strategies and recommend an appropriate sort for a specified example application. Justify your recommendation based on the strengths and weaknesses of the selected sort and the correspondence to the strengths and weaknesses of the application.
+  Enumerate at least 10 factors that need to be considered inselecting a search strategy.
+  Distinguish between searches based on sorted data and those based on other ordering schemes. Give examples of applications appropriate for each type.
+  Distinguish search trees from ordinary m-ary trees.
